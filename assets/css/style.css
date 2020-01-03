@@ -23,8 +23,8 @@ body {
 }
 
 #about {
-    background-image: url('../images/whoami.jpg'); 
-    background-position: bottom;
+    background-image: url('../images/whereswallygrey.jpg'); 
+    background-position: top;
     background-size: cover;
     height: 80vh;
     width: 100vw;
