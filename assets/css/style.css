@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
-footer {
-    border-color: transparent;
-    text-align: center;
+/* body */
+body {
+    background-color: #a9a9a9
+    font-family: 'Roboto', san-serif;
 }
