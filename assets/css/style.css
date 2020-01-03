@@ -14,38 +14,34 @@ body {
 }
 
 
-header {
-    margin: 0;
-    padding:0;
-}
-
 
 #headingpage {
   background-image: url('../images/color abstract.jpg');  
   background-size: cover;
   width: 100vw;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 #about {
-    background-color: #f2f2f2; 
-    background-position: top;
+    background-image: url('../images/Rubiks3.jpg'); 
+    background-position: bottom;
     background-size: cover;
-    height: 60vh;
+    height: 80vh;
     width: 100vw;
-    margin-bottom: 0px; 
-    color: #838383;
+    margin-bottom: 5px;
+    margin-top: 5px; 
+    color: #fff;
 
 }
 
 #skills {
-    background-color: #fff; 
+    background-image: url('../images/rainbow binary.jpg');
     background-position: bottom;
     background-size: cover;
     height: 60vh;
     width: 100vw;
-    margin-bottom: 0px;
-    color: #838383;
+    margin-bottom: 5px;
+    color: #fff;
 }  
 
 
@@ -54,9 +50,9 @@ header {
    background-attachment: fixed;
    background-position: bottom;
    background-size: cover;
-   height: 60vh;
+   height: 80vh;
    width: 100vw;
-   margin-bottom: 0px;
+   margin-bottom: 5px;
   }
 
 #contact {
@@ -64,9 +60,9 @@ header {
    background-attachment: fixed;
    background-position: bottom;
    background-size: cover;
-   height: 60vh;
+   height: 70vh;
    width: 100vw;
-   margin-bottom: 0px; 
+   margin-bottom: 5px; 
 }
 
 
@@ -86,12 +82,12 @@ header {
 
 
 footer {
-    background-color: #fff;  
+    background-image: url('../images/Rubiks3.jpg'); 
     background-position: bottom;
     background-size: cover;
     height: 15vh;
     width: 100vw;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     color: #838383
 }
 
