@@ -21,7 +21,7 @@ header {
 }
 
 #about {
-    background-image: url('../images/backup.jpg'); 
+    background-color: #fff; 
     background-position: top;
     background-size: cover;
     height: 60vh;
@@ -66,9 +66,10 @@ header {
     height: 60vh;
     width: 100vw;
     margin-bottom: 0px;
-    padding-top: 22vh;
+    padding-top: 10vh;
     text-align: center;
 }
+
 
 
 footer {
@@ -80,3 +81,16 @@ footer {
     margin-bottom: 0px;
 }
 
+/* NAV BAR */
+
+a {
+ text-decoration: none;
+ color: #fff
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+    background-color: #fff;
+}
