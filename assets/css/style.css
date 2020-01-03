@@ -1,9 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto: 100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
 /* body */
 body {
     background-color: transparent;
- 
+    font-family: Exo; 
 }
 
+
+header {
+    margin: 0;
+}
+
+
+#headingpage {
+  background-image: url('../images/abstract.jpg');  
+}
+
+
+#intro {
+  background-image: url('../images/abstract.jpg');  
+    background-position: bottom;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    margin-bottom: 0px;
+}
