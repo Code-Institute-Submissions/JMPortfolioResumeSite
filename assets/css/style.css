@@ -1,12 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 /* body */
 body {
     background: linear-gradient(to right, #f00, #0059b3,#0f0,#0ff,#ff0,#0ff ,#0f0,#0059b3, #f00);
     mix-blend-mode: color;
     font-family: Exo; Roboto;
-    color: #fff
+    color: #fff;
 }
 
 
@@ -24,7 +28,7 @@ header {
 }
 
 #about {
-    background-color: #fff; 
+    background-color: #f2f2f2; 
     background-position: top;
     background-size: cover;
     height: 60vh;
