@@ -23,7 +23,7 @@ body {
 }
 
 #about {
-    background-image: url('../images/whereswallygrey.jpg'); 
+    background-image: url('../images/glasses.jpg'); 
     background-position: top;
     background-size: cover;
     height: 80vh;
@@ -82,14 +82,32 @@ body {
 
 
 footer {
-    background-image: url('../images/Rubiks3.jpg'); 
+    background-image: url('../images/color abstract.jpg'); 
     background-position: bottom;
+    background-attachment: fixed;
     background-size: cover;
     height: 15vh;
     width: 100vw;
     margin-bottom: 5px;
-    color: #838383
+    color: #fff;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 5px;
+  border-radius: 50%;
+  position: relative;
+  left: 30vw;
+}
+
+h6{
+    text-align: center;
+}
+
 
 /* NAV BAR */
 
@@ -104,7 +122,6 @@ a:hover {
     color: red;
     background-color: rgba(255, 255, 255, 0.7)
     }
-
 
 
 /* animation */
