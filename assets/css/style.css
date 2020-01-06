@@ -5,6 +5,7 @@ html {
 }
 
 
+
 /* body */
 body {
     background: linear-gradient(to right, #f00, #0059b3,#0f0,#0ff,#ff0,#0ff ,#0f0,#0059b3, #f00);
@@ -38,6 +39,15 @@ body {
 
 }
 
+.aboutbox {
+
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+
+
 #skills {
     background-image: url('../images/Rubiks3.jpg');
     background-position: bottom;
@@ -64,13 +74,13 @@ body {
    background-attachment: fixed;
    background-position: bottom;
    background-size: cover;
-   height: 70vh;
+   height: 80vh;
    width: 100vw;
    margin-bottom: 5px; 
 }
 
 #contact form {
-padding: 30px;    
+padding: 8px;    
 }
 
 
@@ -94,7 +104,6 @@ footer {
     background-position: bottom;
     background-attachment: fixed;
     background-size: cover;
-    height: 15vh;
     width: 100vw;
     margin-bottom: 5px;
     color: #fff;
