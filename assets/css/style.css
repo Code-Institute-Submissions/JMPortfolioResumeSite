@@ -210,3 +210,38 @@ h1 span:nth-child(10){
     opacity: 0;
     animation-delay: 5s;
 }
+
+
+
+
+h2 span{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    color: #fff;
+    font-size: 1em;
+    text-transform: uppercase;
+}
+h2 span{
+    display: inline-block;
+    animation: animate 1s linear forwards;
+}
+@keyframes animate{
+    0%{
+        opacity: 0;
+        transform: rotateY(90deg);
+        filter: blur(10px)
+    }
+    100%{
+        opacity: 1;
+        transform: rotateY(0deg);
+        filter:blur(0)
+    }
+}
+h2 span:nth-child(1){
+    opacity: 0;
+    animation-delay: 5.5s;
+]
