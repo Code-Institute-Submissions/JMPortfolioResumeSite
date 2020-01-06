@@ -58,6 +58,11 @@ body {
     color: #fff;
 }  
 
+.card {
+    display: inline-block;
+    border-color: (rgba(0, 0, 0, 0.5))
+}
+
 
 #experience {
    background-image: url('../images/color abstract.jpg');  
@@ -232,7 +237,6 @@ h2 span{
     width: 100%;
     color: #fff;
     font-size: 1em;
-    text-transform: uppercase;
 }
 h2 span{
     display: inline-block;
@@ -242,7 +246,7 @@ h2 span{
     0%{
         opacity: 0;
         transform: rotateY(90deg);
-        filter: blur(10px)
+        filter: blur(10px); 
     }
     100%{
         opacity: 1;
@@ -250,7 +254,8 @@ h2 span{
         filter:blur(0)
     }
 }
+
 h2 span:nth-child(1){
     opacity: 0;
-    animation-delay: 5.5s;
-]
+    animation-delay: 5.25s;
+}
