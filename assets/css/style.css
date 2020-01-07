@@ -41,7 +41,7 @@ body {
 
 .aboutbox {
 
-    background: rgba(255, 255, 255, 0.6);
+    background: rgba(255, 255, 255, 0.4);
     margin-top: 10px;
     padding-top: 10px;
     border-radius: 10px;
@@ -51,7 +51,6 @@ body {
 #iframeabout {
     padding-top: 40px;
 }
-
 
 
 
@@ -65,10 +64,6 @@ body {
     color: #fff;
 }  
 
-.card {
-    display: inline-block;
-    border-color: (rgba(0, 0, 0, 0.5))
-}
 
 
 #experienceskills {
