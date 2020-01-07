@@ -41,14 +41,21 @@ body {
 
 .aboutbox {
 
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(255, 255, 255, 0.6);
     margin-top: 10px;
+    padding-top: 10px;
     border-radius: 10px;
+    padding: 80px;
+}
+
+#iframeabout {
+    padding-top: 40px;
 }
 
 
 
-#skills {
+
+#projects {
     background-image: url('../images/Rubiks3.jpg');
     background-position: bottom;
     background-size: cover;
@@ -64,7 +71,7 @@ body {
 }
 
 
-#experience {
+#experienceskills {
    background-image: url('../images/color abstract.jpg');  
    background-attachment: fixed;
    background-position: bottom;
@@ -125,6 +132,13 @@ footer {
   position: relative;
   left: 21vw;
 }
+
+h3 {
+    padding: 20px;
+    padding-left: 65px;
+    font-size: 32px;
+}
+
 
 h6{
     text-align: center;
