@@ -162,8 +162,11 @@ footer {
     text-decoration: none;
     margin-top: 5px;
     border-radius: 50%;
+  }
 
-}
+  .fa:hover {
+   background-color:  rgba(169, 169, 169, 0);  
+  }
 
 
 h3 {
