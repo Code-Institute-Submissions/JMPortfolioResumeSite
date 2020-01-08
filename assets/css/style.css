@@ -41,7 +41,7 @@ body {
 
 .aboutbox {
 
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.5);
     margin-top: 10px;
     padding-top: 10px;
     border-radius: 10px;
@@ -96,6 +96,10 @@ body {
 .card img {
 border-top-left-radius: 50px;
 border-top-right-radius: 50px;
+}
+
+.card-img-top {
+    height: 90px;
 }
 
 #contact {
