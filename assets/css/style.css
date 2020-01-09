@@ -14,18 +14,64 @@ body {
     color: #fff;
 }
 
-
-
-#headingpage {
-  background-color: transparent;
-  position: relative;
-  float: left;
-  margin-bottom: 25px;
-  padding: 10px;
-  position: fixed;
-  top: 0;
+h3 {
+    padding: 10px;
+    padding-left: 65px;
+    font-size: 32px;
 }
 
+
+/* NAV BAR */
+
+.navbar-dark .navbar-toggler {
+    border-color: rgba(255,255,255,.4);
+}
+
+
+.navbar-dark .navbar-toggler:hover {
+    border-color: rgba(255,255,255,.4);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    border-radius: 3px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+    background-color:  rgba(255,255,255, 0.8);
+    }
+
+#headingpage {
+    background-color: transparent;
+    position: relative;
+    float: left;
+    margin-bottom: 25px;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+}
+
+
+/*landingpage*/
+
+#intro {
+    background-image: url('../images/color abstract.jpg');  
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+  
+    margin-bottom: 0px;
+    padding-top: 40vh;
+    text-align: center;
+}
+
+
+
+/*about*/
 
 
 #about {
@@ -55,62 +101,16 @@ body {
     transform: scale(1.02);
 }
 
-#iframeabout {
-    padding-top: 20px;
-}
-
-
-/* project start */ 
-
-#projects {
-    background-image: url('../images/Rubiks3.jpg');
-    background-position: bottom;
-    background-size: cover;
-    height: 80vh;
-    
-    margin-bottom: 5px;
-    color: #fff;
-}  
-
-
-.column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
-
-.card {
-    display: inline-block;
-    background-color: rgba(255, 255, 255, 0.3);
-    color: #fff;
-    padding: 16px;
-    text-align: center;
-    border-radius: 10px;
-    border: 2px solid rgba(255, 255, 255, .7);
-    margin-top: 10px;
-    width: 90%;
-    transition: transform .5s ease-in-out;
-}
-
-.card:hover {
-    background-color: rgba(169, 169, 169, 0.70);
-    color: #fff;
-    transform: scale(1.05);
-}
-
-
-/* project end */ 
 
 /*skills start */
 
 #skills {
-   background-image: url('../images/color abstract.jpg');  
-   background-attachment: fixed;
-   background-position: bottom;
-   background-size: cover;
-   height: 80vh;
-  
-   margin-bottom: 5px;
+    background-image: url('../images/color abstract.jpg');  
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    height: 80vh;
+    margin-bottom: 5px;
   }
 
  .circle {
@@ -139,20 +139,55 @@ body {
 }
 
 
-/*skills end */
+/* project start */ 
+
+#projects {
+    background-image: url('../images/Rubiks3.jpg');
+    background-position: bottom;
+    background-size: cover;
+    height: 80vh;
+    margin-bottom: 5px;
+    color: #fff;
+}  
+
+.card {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #fff;
+    padding: 16px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, .7);
+    margin-top: 10px;
+    width: 90%;
+    transition: transform .5s ease-in-out;
+}
+
+.card:hover {
+    background-color: rgba(169, 169, 169, 0.70);
+    color: #fff;
+    transform: scale(1.05);
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+}
+
+/*Contact*/
 
 #contact {
-   background-image: url('../images/color abstract.jpg'); 
-   background-attachment: fixed;
-   background-position: bottom;
-   background-size: cover;
-   height: 80vh;
-  
-   margin-bottom: 5px; 
+    background-image: url('../images/color abstract.jpg'); 
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    height: 80vh;
+    margin-bottom: 5px; 
 }
 
 #contact form {
-padding: 8px;    
+    padding: 8px;    
 }
 
 .form-control {
@@ -160,20 +195,7 @@ padding: 8px;
 }
 
 
-
-#intro {
-  background-image: url('../images/color abstract.jpg');  
-    background-position: bottom;
-    background-attachment: fixed;
-    background-size: cover;
-    height: 100vh;
-  
-    margin-bottom: 0px;
-    padding-top: 40vh;
-    text-align: center;
-}
-
-
+/*followmefooter*/
 
 footer {
     background-image: url('../images/color abstract.jpg'); 
@@ -181,7 +203,10 @@ footer {
     background-attachment: fixed;
     background-size: cover;
     color: #fff;
-}
+}   
+
+
+/*Font Awesomes*/
 
 .fa {
     padding: 20px;
@@ -193,39 +218,12 @@ footer {
     border-radius: 50%;
   }
 
-  .fa:hover {
-   background-color:  rgba(169, 169, 169, 0);  
+.fa:hover {
+    background-color:  rgba(169, 169, 169, 0);  
   }
 
 
-h3 {
-    padding: 10px;
-    padding-left: 65px;
-    font-size: 32px;
-}
 
-
-/* NAV BAR */
-
-.navbar-dark .navbar-toggler {
-    border-color: rgba(255,255,255,.4);
-}
-
-
-.navbar-dark .navbar-toggler:hover {
-    border-color: rgba(255,255,255,.4);
-}
-
-a {
- text-decoration: none;
- color: #fff
-}
-
-a:hover {
-    text-decoration: none;
-    color: red;
-    background-color:  rgba(255,255,255, 0.8);
-    }
 
 
 
@@ -248,14 +246,14 @@ h1 span{
 }
 @keyframes animate{
     0%{
-        opacity: 0;
-        transform: rotateY(90deg);
-        filter: blur(10px)
+    opacity: 0;
+    transform: rotateY(90deg);
+    filter: blur(10px)
     }
     100%{
-        opacity: 1;
-        transform: rotateY(0deg);
-        filter:blur(0)
+    opacity: 1;
+    transform: rotateY(0deg);
+    filter:blur(0)
     }
 }
 h1 span:nth-child(1){
@@ -299,9 +297,6 @@ h1 span:nth-child(10){
     animation-delay: 5s;
 }
 
-
-
-
 h2 span{
     margin: 0;
     padding: 0;
@@ -318,14 +313,14 @@ h2 span{
 }
 @keyframes animate{
     0%{
-        opacity: 0;
-        transform: rotateY(90deg);
-        filter: blur(10px); 
+    opacity: 0;
+    transform: rotateY(90deg);
+    filter: blur(10px); 
     }
     100%{
-        opacity: 1;
-        transform: rotateY(0deg);
-        filter:blur(0)
+    opacity: 1;
+    transform: rotateY(0deg);
+    filter:blur(0)
     }
 }
 
