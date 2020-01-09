@@ -63,7 +63,6 @@ a:hover {
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
-  
     margin-bottom: 0px;
     padding-top: 40vh;
     text-align: center;
@@ -82,7 +81,7 @@ a:hover {
     margin-bottom: 5px;
     margin-top: 5px; 
     color: #fff;
-
+    overflow: hidden;
 }
 
 .aboutbox {
@@ -111,6 +110,7 @@ a:hover {
     background-size: cover;
     height: 80vh;
     margin-bottom: 5px;
+    overflow: hidden;
   }
 
  .circle {
@@ -148,6 +148,7 @@ a:hover {
     height: 80vh;
     margin-bottom: 5px;
     color: #fff;
+    overflow: hidden;
 }  
 
 .card {
@@ -183,7 +184,8 @@ a:hover {
     background-position: bottom;
     background-size: cover;
     height: 80vh;
-    margin-bottom: 5px; 
+    margin-bottom: 5px;
+    overflow: hidden;
 }
 
 #contact form {
@@ -198,11 +200,13 @@ a:hover {
 /*followmefooter*/
 
 footer {
-    background-image: url('../images/color abstract.jpg'); 
+    background-image: url('../images/color abstract.jpg');
+    text-align: center; 
     background-position: bottom;
     background-attachment: fixed;
     background-size: cover;
     color: #fff;
+    overflow: hidden;
 }   
 
 
@@ -221,9 +225,6 @@ footer {
 .fa:hover {
     background-color:  rgba(169, 169, 169, 0);  
   }
-
-
-
 
 
 
