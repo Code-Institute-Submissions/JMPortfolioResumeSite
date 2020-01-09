@@ -18,7 +18,7 @@ body {
 
 #headingpage {
   background-color: transparent;
-  width: 100vw;
+
   margin-bottom: 25px;
   padding: 10px;
   position: fixed;
@@ -32,7 +32,7 @@ body {
     background-position: top;
     background-size: cover;
     height: 80vh;
-    width: 100vw;
+   
     margin-bottom: 5px;
     margin-top: 5px; 
     color: #fff;
@@ -67,7 +67,7 @@ body {
     background-position: bottom;
     background-size: cover;
     height: 80vh;
-    width: 100vw;
+    
     margin-bottom: 5px;
     color: #fff;
 }  
@@ -88,7 +88,7 @@ body {
     border-radius: 10px;
     border: 2px solid rgba(255, 255, 255, .7);
     margin-top: 10px;
-    width: 100%;
+    width: 90%;
     transition: transform .5s ease-in-out;
 }
 
@@ -109,7 +109,7 @@ body {
    background-position: bottom;
    background-size: cover;
    height: 80vh;
-   width: 100vw;
+  
    margin-bottom: 5px;
   }
 
@@ -147,7 +147,7 @@ body {
    background-position: bottom;
    background-size: cover;
    height: 80vh;
-   width: 100vw;
+  
    margin-bottom: 5px; 
 }
 
@@ -167,7 +167,7 @@ padding: 8px;
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
-    width: 100vw;
+  
     margin-bottom: 0px;
     padding-top: 40vh;
     text-align: center;
@@ -180,7 +180,7 @@ footer {
     background-position: bottom;
     background-attachment: fixed;
     background-size: cover;
-    width: 100vw;
+
     margin-bottom: 5px;
     color: #fff;
 }
@@ -239,7 +239,6 @@ h1{
     text-align: center;
     top: 50%;
     transform: translateY(-50%);
-    width: 100%;
     color: #fff;
     font-size: 5em;
     text-transform: uppercase;
@@ -310,7 +309,7 @@ h2 span{
     text-align: center;
     top: 50%;
     transform: translateY(-50%);
-    width: 100%;
+    width: 90%;
     color: #fff;
     font-size: 1em;
 }
