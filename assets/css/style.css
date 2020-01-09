@@ -352,6 +352,10 @@ h2 span:nth-child(1){
         font-size: 25px;
     }
 
+    .aboutbox {
+        font-size: 50%;
+    }
+
     .columnskills {
         width: 50%;
     }
@@ -369,8 +373,17 @@ h2 span:nth-child(1){
     
 }
 
-@media only screen and (max-width: 768px) 
-{
+@media only screen and (max-width: 768px) {
+
+    .aboutbox {
+        font-size: 75%;
+    }
+
+
+    .columnskills {
+        width: 50%;
+    }
+
    .columnproject {
         width: 50%;
         height: 50%;
@@ -378,7 +391,7 @@ h2 span:nth-child(1){
 
     .card {
         height: 50%;
-        font-size: 50%;
+        font-size: 75%;
         width: 100%;
     } 
 }
