@@ -177,7 +177,6 @@ a:hover {
 }
 
 .columnproject {
-    float: left;
     width: 25%;
     padding: 0 10px;
 }
@@ -341,57 +340,80 @@ h2 span:nth-child(1){
 }
 
 
+@media (min-width: 0px) {
 
-@media only screen and (max-width: 480px) {
     h1 {
-         font-size: 45px;
+         font-size: 20px;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+
+     .columnskills {
+        width: 50%;
+        height: 50%;
+    }
+
+     .columnproject {
+        width: 100%;
+        height: 50%;
+    }
+
+    
+    .card {
+        height: 50%;
+        font-size: 75%;
+        width: 100%;
+    } 
+
+}
+
+
+@media (min-width: 360px) {
+
+      h1 {
+         font-size: 40px;
     }
 
     h2 {
         font-size: 25px;
     }
 
-    .aboutbox {
-        font-size: 50%;
-    }
-
-    .columnskills {
-        width: 50%;
-    }
-
-
-    .columnproject {
-        width: 100%;
+     .columnskills {
+        width: 33.333%;
         height: 50%;
     }
-
-    .card {
-        height: 50%;
-        font-size: 50%;
-        width: 100%;
+ 
+}
+@media (min-width: 576px) {
+    h1 {
+         font-size: 60px;
     }
-    
+
+    h2 {
+        font-size: 30px;
+    }
+
 }
 
-@media only screen and (max-width: 850px) {
+@media (min-width: 768px) {
 
-    .aboutbox {
-        font-size: 75%;
+    h1 {
+         font-size: 80px;
+    }
+
+    h2 {
+        font-size: 35px;
     }
 
 
-    .columnskills {
-        width: 50%;
-    }
 
-   .columnproject {
-        width: 50%;
-        height: 50%;        
-    }
+/*additional media options
+@media (min-width: 992px) { 
 
-    .card {
-        height: 50%;
-        font-size: 100%;
-        width: 100%;
-    } 
 }
+
+@media (min-width: 1200px) { ... }
+
+additional media options*/
