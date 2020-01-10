@@ -74,7 +74,8 @@ a:hover {
 
 
 #about {
-    background-image: url('../images/glasses.jpg'); 
+    background-image: url('../images/glasses.jpg');
+    background-attachment: fixed;
     background-position: top;
     background-size: cover;
     display: max-content;
@@ -149,6 +150,7 @@ a:hover {
 
 #projects {
     background-image: url('../images/Rubiks3.jpg');
+    background-attachment: fixed;
     background-position: bottom;
     background-size: cover;
     display: max-content;
