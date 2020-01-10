@@ -170,7 +170,9 @@ a:hover {
     border-radius: 10px;
     border: 2px solid rgba(255, 255, 255, .7);
     margin-top: 20px;
-    width: 90%;
+    position: relative;
+    float: left;
+    min-height: 250px;
     transition: transform .5s ease-in-out;
 }
 
@@ -347,7 +349,7 @@ h2 span:nth-child(1){
 @media (min-width: 0px) {
 
     h1 {
-         font-size: 20px;
+         font-size: 30px;
     }
 
     h2 {
@@ -376,11 +378,11 @@ h2 span:nth-child(1){
 @media (min-width: 360px) {
 
       h1 {
-         font-size: 40px;
+         font-size: 38px;
     }
 
     h2 {
-        font-size: 25px;
+        font-size: 24px;
     }
 
      .columnskills {
@@ -403,11 +405,11 @@ h2 span:nth-child(1){
 @media (min-width: 768px) {
 
     h1 {
-         font-size: 90px;
+         font-size: 80px;
     }
 
     h2 {
-        font-size: 35px;
+        font-size: 34px;
     }
 
 
