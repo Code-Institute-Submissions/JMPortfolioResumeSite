@@ -312,6 +312,11 @@ h1 span:nth-child(11){
     animation-delay: 5.5s;
 }
 
+h1 span:nth-child(12){
+    opacity: 0;
+    animation-delay: 5.75s;
+}
+
 h2 span{
     margin: 0;
     padding: 0;
@@ -341,7 +346,12 @@ h2 span{
 
 h2 span:nth-child(1){
     opacity: 0;
-    animation-delay: 5.25s;
+    animation-delay: 6s;
+}
+
+h2 span:nth-child(2){
+    opacity: 0;
+    animation-delay: 6.5s;
 }
 
 
