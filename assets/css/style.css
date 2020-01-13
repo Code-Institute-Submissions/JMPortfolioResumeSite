@@ -9,7 +9,6 @@ html {
 /* body */
 body {
     background: linear-gradient(to right, #f00, #0059b3,#0f0,#0ff,#ff0,#0ff ,#0f0,#0059b3, #f00);
-    mix-blend-mode: color;
     font-family: 'Exo', Roboto;
     color: #fff;
 }
