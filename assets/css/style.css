@@ -24,13 +24,11 @@ h3 {
 
 .navbar-dark .navbar-toggler {
     border-color: rgba(255,255,255,.6);
-    z-index: 1;
 }
 
 
 .navbar-dark .navbar-toggler:hover {
     border-color: rgba(255,255,255,.9);
-    z-index: 1;
 }
 
 .bg-transparent {
@@ -40,14 +38,16 @@ h3 {
 a {
     text-decoration: none;
     color: #fff;
+    text-shadow: 1px 1px black;
     border-radius: 3px;
-    z-index: 1;
 }
 
 a:hover {
     text-decoration: none;
     color: red;
-    background-color:  rgba(255,255,255, 0.8);
+    background-color:  rgba(255,255,255, 0.9);
+    text-shadow: none;
+    font-weight: x2;
     }
 
 #headingpage {
@@ -154,7 +154,6 @@ a:hover {
 
 #projects {
     background-image: url('../images/Rubiks3.jpg');
-
     background-position: bottom;
     background-size: cover;
     display: max-content;
@@ -194,7 +193,6 @@ a:hover {
 
 #contact {
     background-image: url('../images/color abstract.jpg'); 
- 
     background-position: bottom;
     background-size: cover;
     display: max-content;
@@ -217,7 +215,6 @@ footer {
     background-image: url('../images/color abstract.jpg');
     text-align: center; 
     background-position: bottom;
- 
     background-size: cover;
     color: #fff;
     overflow: hidden;
@@ -363,14 +360,17 @@ h2 span:nth-child(2){
 
     h1 {
          font-size: 30px;
+         text-shadow: 1px 1px black;
     }
 
     h2 {
         font-size: 15px;
+        text-shadow: 1px 1px black;
     }
 
     h3 {
     text-align: right;
+    text-shadow: 1px 1px black;
     }
 
      .columnskills {
@@ -391,7 +391,7 @@ h2 span:nth-child(2){
 
 @media (min-width: 360px) {
 
-      h1 {
+    h1 {
          font-size: 38px;
     }
 
@@ -432,6 +432,7 @@ h2 span:nth-child(2){
 
     h3 {
         text-align: left;
+        text-shadow: 1px 1px black;
     }
 
 }
