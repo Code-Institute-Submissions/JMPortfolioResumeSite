@@ -23,12 +23,12 @@ h3 {
 /* NAV BAR */
 
 .navbar-dark .navbar-toggler {
-    border-color: rgba(255,255,255,.4);
+    border-color: rgba(255,255,255,.6);
 }
 
 
 .navbar-dark .navbar-toggler:hover {
-    border-color: rgba(255,255,255,.4);
+    border-color: rgba(255,255,255,.9);
 }
 
 a {
@@ -73,7 +73,6 @@ a:hover {
 
 #about {
     background-image: url('../images/glasses.jpg');
-  
     background-position: top;
     background-size: cover;
     display: max-content;
@@ -113,7 +112,7 @@ a:hover {
   }
 
  .circle {
-    background-color: rgba(105, 105, 105, 0.5);
+    background-color: rgba(105, 105, 105, 0.4);
     color: #fff;
     text-align: center;
     line-height: 90px;
@@ -126,7 +125,7 @@ a:hover {
 }
 
 .circle:hover {
-    background-color: rgba(105, 105, 105, 0.7);
+    background-color: rgba(105, 105, 105, 0.6);
     color:#fff;
     transform: scale(1.05);
     border-top-color: #f00;
@@ -160,7 +159,7 @@ a:hover {
 
 .card {
     display: inline-block;
-    background-color: rgba(105, 105, 105, 0.5);
+    background-color: rgba(105, 105, 105, 0.4);
     color: #fff;
     padding: 16px;
     text-align: center;
@@ -174,7 +173,7 @@ a:hover {
 }
 
 .card:hover {
-    background-color: rgba(105, 105, 105, 0.7);
+    background-color: rgba(105, 105, 105, 0.6);
     color: #fff;
     transform: scale(1.05);
 }
