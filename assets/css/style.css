@@ -59,7 +59,7 @@ a:hover {
 #intro {
     background-image: url('../images/color abstract.jpg');  
     background-position: bottom;
-    background-attachment: fixed;
+ 
     background-size: cover;
     height: 100vh;
     margin-bottom: 0px;
@@ -74,7 +74,7 @@ a:hover {
 
 #about {
     background-image: url('../images/glasses.jpg');
-    background-attachment: fixed;
+  
     background-position: top;
     background-size: cover;
     display: max-content;
@@ -106,7 +106,7 @@ a:hover {
 
 #skills {
     background-image: url('../images/color abstract.jpg');  
-    background-attachment: fixed;
+
     background-position: bottom;
     background-size: cover;
     display: max-content;
@@ -150,7 +150,7 @@ a:hover {
 
 #projects {
     background-image: url('../images/Rubiks3.jpg');
-    background-attachment: fixed;
+
     background-position: bottom;
     background-size: cover;
     display: max-content;
@@ -190,7 +190,7 @@ a:hover {
 
 #contact {
     background-image: url('../images/color abstract.jpg'); 
-    background-attachment: fixed;
+ 
     background-position: bottom;
     background-size: cover;
     display: max-content;
@@ -213,7 +213,7 @@ footer {
     background-image: url('../images/color abstract.jpg');
     text-align: center; 
     background-position: bottom;
-    background-attachment: fixed;
+ 
     background-size: cover;
     color: #fff;
     overflow: hidden;
@@ -415,6 +415,10 @@ h2 span:nth-child(1){
 
     h2 {
         font-size: 34px;
+    }
+
+    #intro, #about, #skills, #projects, #contact, footer {
+        background-attachment: fixed;
     }
 
 
