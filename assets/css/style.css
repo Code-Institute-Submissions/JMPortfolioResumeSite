@@ -24,17 +24,24 @@ h3 {
 
 .navbar-dark .navbar-toggler {
     border-color: rgba(255,255,255,.6);
+    z-index: 1;
 }
 
 
 .navbar-dark .navbar-toggler:hover {
     border-color: rgba(255,255,255,.9);
+    z-index: 1;
+}
+
+.bg-transparent {
+    padding-left: 20px;
 }
 
 a {
     text-decoration: none;
     color: #fff;
     border-radius: 3px;
+    z-index: 1;
 }
 
 a:hover {
