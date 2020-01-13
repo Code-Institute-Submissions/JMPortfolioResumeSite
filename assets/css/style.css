@@ -362,6 +362,10 @@ h2 span:nth-child(2){
         font-size: 15px;
     }
 
+    h3 {
+    text-align: right;
+    }
+
      .columnskills {
         width: 50%;
         height: 50%;
@@ -372,12 +376,10 @@ h2 span:nth-child(2){
         height: 50%;
     }
 
-    
     .card {
         height: 50%;
         width: 100%;
     } 
-
 }
 
 @media (min-width: 360px) {
@@ -419,6 +421,10 @@ h2 span:nth-child(2){
 
     #intro, #about, #skills, #projects, #contact, footer {
         background-attachment: fixed;
+    }
+
+    h3 {
+        text-align: left;
     }
 
 }
