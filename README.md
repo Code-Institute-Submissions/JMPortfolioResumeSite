@@ -1,13 +1,13 @@
-# MilestoneProject1 - Portfolio|Resume - UserCentricFrontendDevelopment
+# *Portfolio|Resume Project*
+## MilestoneProject1 - UserCentricFrontendDevelopment
 
-
-
-# Table Of Contents
+## Table Of Contents
 1. [Description](#Description)
 2. [UX](#UX)
 3. [UserStories](#UserStories)
 4. [Mockup/Wireframes](#Mockup/Wireframes)
 5. [Features](#Features)
+    * [FutureFeatures](FutureFeatures)
 6. [FutureFeatures](#FutureFeatures)
 7. [Fonts](#Fonts)
 8. [Pages](#Pages)
@@ -37,7 +37,7 @@ The User experience does not suffer as a result of adding this creativity and us
 
 ## Mockup/Wireframes
 
-* All Mockups for this website were created using Balsamiq.
+All Mockups for this website were created using Balsamiq.
 
 1. [DesktopWireFrame](libraries/desktopmockup.png)
 2. [MobileWireFrame](libraries/mobilemockup.png)
