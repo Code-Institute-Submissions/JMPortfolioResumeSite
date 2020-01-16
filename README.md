@@ -4,7 +4,7 @@
 ## Table Of Contents
 1. [Description](#Description)
 2. [UX](#UX)
-3. [UserStories](#User Stories)
+3. [UserStories](#UserStories)
 4. [Wireframes](#Wireframes)
 5. [Features](#Features)
 6. [FutureFeatures](#FutureFeatures)
@@ -27,7 +27,7 @@ The website will also give the user an insight into my past, what has driven me 
 The site has been designed to immediately capture the eye of users by purposely going against the current status quo of minimalistic designs by introducing bursts of abstract geometric colouring throughout and breaking these colours with linear gradient margins and grey scaled images. 
 The User experience does not suffer as a result of adding this creativity and usability has been kept clean, concise with the website broken into easily identifiable sections. 
 
-## User Stories
+## UserStories
 
 * Potential Employers, User to have the ability to read insights about my career to date and my future vision.
 * Potential Employers & Collaborators, I want to showcase the skills I have in an interesting/captivating way.
