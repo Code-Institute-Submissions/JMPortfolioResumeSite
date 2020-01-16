@@ -15,7 +15,7 @@
 9. [Testing](#Testing)
 10. [Deployment](#Deployment)
 11. [Technologies](#Technologies)
-12. [ViewProject](#ViewProject
+12. [ViewProject](#ViewProject)
 
 ## Description
 
