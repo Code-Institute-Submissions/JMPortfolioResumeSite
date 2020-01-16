@@ -4,8 +4,8 @@
 ## Table Of Contents
 1. [Description](#Description)
 2. [UX](#UX)
-3. [UserStories](#UserStories)
-4. [Mockup/Wireframes](#Mockup/Wireframes)
+3. [UserStories](#User Stories)
+4. [Wireframes](#Wireframes)
 5. [Features](#Features)
 6. [FutureFeatures](#FutureFeatures)
 7. [Fonts](#Fonts)
@@ -14,6 +14,7 @@
 10. [Deployment](#Deployment)
 11. [Technologies](#Technologies)
 12. [ViewProject](#ViewProject)
+13. [Acknowledgements](#Acknowledgements)
 
 ## Description
 
@@ -34,9 +35,9 @@ The User experience does not suffer as a result of adding this creativity and us
 * Everyone, I want everyone to have the ability to contact me for any queries or requests they may have as a result of viewing my content.
 * Everyone, I want everyone to have the ability to follow me on social media for interesting updates and project/product releases.
 
-## Mockup/Wireframes
+## Wireframes
 
-All Mockups for this website were created using Balsamiq.
+All wireframes for this website were created using Balsamiq Mock up tool.
 
 1. [DesktopWireFrame](libraries/desktopmockup.png)
 2. [MobileWireFrame](libraries/mobilemockup.png)
@@ -67,7 +68,7 @@ In the future I would like to add the following features;
 
 ## Fonts
 
-*GoogleFonts.
+* GoogleFonts.
 
 
 ## Pages
@@ -95,7 +96,7 @@ Overflow Content CSS | Body colours were overflowing due to width set at 100% (p
 Screen 100%+ | Horizontal scroll bar causing a jump when loading due to width set at 100% (plus padding) Solved by replacing 100vw and 100% widths as I also had padding which was increasing the width to over 100% screen size
 
 
-Test | Outcome
+Browser Test | Outcome
 ------------ | -------------
  Chrome | Passed
  Edge/IE | Passed
