@@ -1,9 +1,8 @@
-#MilestoneProject1 - Portfolio|Resume - User Centric Frontend Development
+#MilestoneProject1 - Portfolio|Resume-UserCentricFrontendDevelopment
 
 
 
-#Table of Contents
-
+#Table Of Contents
 1. [Description](#Description)
 2. [UX](#UX)
 3. [UserStories](#UserStories)
@@ -87,7 +86,7 @@ Test | Outcome
 W3C validation for HTML | Failed on 'Display: Max Content' - investigated and decided to leave in my project as it sizes my content appropriately & appears to be a newer feature which may not have a test built into the HTML Validator yet. 
 W3C validation for CSS | Passed
 Chrome developer tools (debugging and responsiveness testing) | Passed
-Samsung A50 | When using the site on this type of mobile only the bodys linear gradient background colors took over the entire screen and covered 60% of my content, after some debugging, I solved the issue by removing the Media Blend function from my css.
+Samsung A50 | When using the site on this type of mobile the bodys linear gradient background colors took over the entire screen and covered 60% of my content, after some debugging, I solved the issue by removing the Media Blend function from my css.
 Iphone 7 | Image wasn't rendering correctly on this type of mobile, after some investigation and debugging, I figured out the problem was caused by the Background Attachment: fixed function which has been discontinued on mobile. I solved this issue while still implementing the same functionality by using media queries for mobile and standardizing the img {} attachment as position:fixed. 
 Iphone X | Image rendered perfectly when vertical but rendered incorrectly when hotizontal - solved with media queries
 Friends & Family Testing | Issue seeing some details on skills and projects section parts of the background images - solved by darkening the background colour of the content and scaling up the image on hover
