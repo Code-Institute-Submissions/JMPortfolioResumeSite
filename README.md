@@ -129,4 +129,4 @@ Coming to the end of my project I deployed my website to GitHub Pages using info
 
 
 ## Acknowledgements
-- I got the idea to create my own portfolio website from [Code Institute](https://www.codeinstitute.net).
+- I got the idea to create my own portfolio website from [Code Institute](https://www.codeinstitute.net)
