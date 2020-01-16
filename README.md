@@ -7,7 +7,6 @@
 3. [UserStories](#UserStories)
 4. [Mockup/Wireframes](#Mockup/Wireframes)
 5. [Features](#Features)
-    * [FutureFeatures](FutureFeatures)
 6. [FutureFeatures](#FutureFeatures)
 7. [Fonts](#Fonts)
 8. [Pages](#Pages)
