@@ -65,7 +65,7 @@ In the future I would like to add the following features;
 * Link real life work related social media sites to promote myself.
 
 
-##Fonts
+## Fonts
 
 *GoogleFonts.
 
