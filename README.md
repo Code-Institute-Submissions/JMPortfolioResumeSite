@@ -1,8 +1,8 @@
-#MilestoneProject1 - Portfolio|Resume-UserCentricFrontendDevelopment
+# MilestoneProject1 - Portfolio|Resume - UserCentricFrontendDevelopment
 
 
 
-#Table Of Contents
+# Table Of Contents
 1. [Description](#Description)
 2. [UX](#UX)
 3. [UserStories](#UserStories)
@@ -29,11 +29,11 @@ The User experience does not suffer as a result of adding this creativity and us
 
 ## User Stories
 
-* Potential Employers, User to have the ability to read insights about my career to date and my future vision
-* Potential Employers & Collaborators, I want to showcase the skills I have in an interesting/captivating way
-* Potential Employers, Collaborators, Customers, I want to showcase my projects to date to attract opportunies to anyone visiting my site
-* Everyone, I want everyone to have the ability to contact me for any queries or requests they may have as a result of viewing my content 
-* Everyone, I want everyone to have the ability to follow me on social media for interesting updates and project/product releases
+* Potential Employers, User to have the ability to read insights about my career to date and my future vision.
+* Potential Employers & Collaborators, I want to showcase the skills I have in an interesting/captivating way.
+* Potential Employers, Collaborators, Customers, I want to showcase my projects to date to attract opportunies to anyone visiting my site.
+* Everyone, I want everyone to have the ability to contact me for any queries or requests they may have as a result of viewing my content.
+* Everyone, I want everyone to have the ability to follow me on social media for interesting updates and project/product releases.
 
 ## Mockup/Wireframes
 
@@ -44,40 +44,40 @@ The User experience does not suffer as a result of adding this creativity and us
 
 ## Features
 
-* Hamburger Nav Bar to focus attention on landing screen
-* Animated headings to showcase skillset
-* Overall Responsive Design (hover on desktop / touch on mobile)
-* Social Media Links
-* Contact Form
-* Resume/CV external link included
-* All links open in new tab
-* Linear multi-coloured gradient margin lines to seperate sections
+* Hamburger Nav Bar on Desktop and Mobile to focus attention on landing screen.
+* Animated headings to showcase skillset.
+* Overall Responsive Design (hover on desktop / touch on mobile).
+* Social Media Links.
+* Contact Form.
+* Resume/CV external link included.
+* All links open in new tab.
+* Linear multi-coloured gradient margin lines to seperate sections.
 
 ## FutureFeatures
 
 In the future I would like to add the following features;
-* A Light/Dark Version of the Website (color would turn to greyscale)
-* A professional photo to the about section
-* Javascript to allow smooth scrolling on Mobile Devices
-* The ability for the contact form to email me directly
-* Animations to the skills section
-* Further interesting projects I will be working on in future
-* More skills and links within circles to relevant information
-* Link real life work related social media sites to promote myself
+* A Light/Dark Version of the Website (color would turn to greyscale).
+* A professional photo to the about section.
+* Javascript to allow smooth scrolling on Mobile Devices.
+* The ability for the contact form to email me directly.
+* Animations to the skills section.
+* Further interesting projects I will be working on in future.
+* More skills and links within circles to relevant information.
+* Link real life work related social media sites to promote myself.
 
 
 ##Fonts
 
-*GoogleFonts
+*GoogleFonts.
 
 
 ## Pages
 
-1. about.html - will give users insights into who I am and what I want to achieve
-2. skills.html - will allow users to view my skill set/abilities in a captivating way
-3. projects.html - will allow users to view my current projects and upcoming projects ideas they may wish to collaborate on
-4. contact.html - will allow everyone who visits the site to contact me directly with any queries or requests
-5. resumé.html - gives potential employers/recruiters the opportunity to view and download my CV
+1. about.html - will give users insights into who I am and what I want to achieve.
+2. skills.html - will allow users to view my skill set/abilities in a captivating way.
+3. projects.html - will allow users to view my current projects and upcoming projects ideas they may wish to collaborate on.
+4. contact.html - will allow everyone who visits the site to contact me directly with any queries or requests.
+5. resumé.html - gives potential employers/recruiters the opportunity to view and download my CV.
 
 ## Testing
 
@@ -108,24 +108,24 @@ Test | Outcome
 ## Deployment
 
 I decided to commit and push my work to my master branch regularly so when travelling to and from work I could access my site and test features on the most up to date version aswell as share with family and friends for constructive feedback.
-Coming to the end of my project I deployed my website to GitHub Pages using information found here [GitHub](https://pages.github.com/)
+Coming to the end of my project I deployed my website to GitHub Pages using information found here [GitHub](https://pages.github.com/).
 
 
 ## Technologies
-- HTML
-- CSS
-- Bootstrap
-- Google Fonts
-- FontAwesome
-- Git
-- GitHub
-- Balsamiq
+* HTML
+* CSS
+* Bootstrap
+* Google Fonts
+* FontAwesome
+* Git
+* GitHub
+* Balsamiq
 
 
 ## ViewProject
 
-- The code can be viewed using GitHub pages: https://Murphj99.github.io/milestone-project-1/
+* The code can be viewed using GitHub pages: https://Murphj99.github.io/milestone-project-1/
 
 
 ## Acknowledgements
-- I got the idea to create my own portfolio website from [Code Institute](https://www.codeinstitute.net)
+* I got the idea to create my own portfolio website from [Code Institute](https://www.codeinstitute.net)
