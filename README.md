@@ -144,7 +144,7 @@ This will allow me to initiate tests on further upgrades/enhancements to my site
 
 ## ViewProject
 
-* The code can be viewed using GitHub pages: https://Murphj99.github.io/milestone-project-1/
+* The code can be viewed using GitHub pages: https://github.com/Murphj99/JMPortfolioResumeSite
 
 
 ## Acknowledgements
