@@ -2,7 +2,7 @@
 html {
    scroll-behavior: smooth;
 }
-/* body */
+/* Body Start */
 
 body {
    background: linear-gradient(to right, #f00, #0059b3, #0f0, #0ff, #ff0, #0ff, #0f0, #0059b3, #f00);
@@ -14,7 +14,7 @@ h3 {
    margin-left: 50px;
    font-size: 32px;
 }
-/* NAV BAR */
+/* Navigation Bar Start */
 
 .navbar-dark .navbar-toggler {
    border-color: rgba(255, 255, 255, .6);
@@ -47,10 +47,10 @@ a:hover {
    position: fixed;
    top: 0;
 }
-/*landingpage*/
+/* Landing Page Start */
 
 #intro {
-   background-image: url('../images/color abstract.jpg');
+   background-image: url('../images/colorabstract.jpg');
    background-position: bottom;
    background-size: cover;
    height: 100vh;
@@ -58,7 +58,7 @@ a:hover {
    padding-top: 40vh;
    text-align: center;
 }
-/*about*/
+/* About Start */
 
 #about {
    background-image: url('../images/glasses.jpg');
@@ -84,10 +84,10 @@ a:hover {
    background-color: rgba(105, 105, 105, 0.7);
    transform: scale(1.02);
 }
-/*skills start */
+/* Skills Start */
 
 #skills {
-   background-image: url('../images/color abstract.jpg');
+   background-image: url('../images/colorabstract.jpg');
    background-position: bottom;
    background-size: cover;
    display: max-content;
@@ -122,10 +122,11 @@ a:hover {
    width: 25%;
    padding: 0 10px;
 }
-/* project start */
+
+/* Project Start */
 
 #projects {
-   background-image: url('../images/Rubiks3.jpg');
+   background-image: url('../images/rubiks.jpg');
    background-position: bottom;
    background-size: cover;
    display: max-content;
@@ -157,10 +158,11 @@ a:hover {
    width: 25%;
    padding: 0 10px;
 }
-/*Contact*/
+
+/*Contact Start*/
 
 #contact {
-   background-image: url('../images/color abstract.jpg');
+   background-image: url('../images/colorabstract.jpg');
    background-position: bottom;
    background-size: cover;
    display: max-content;
@@ -173,17 +175,18 @@ a:hover {
 .form-control {
    margin: 5px;
 }
-/*followmefooter*/
+
+/*Followme Footer Start*/
 
 footer {
-   background-image: url('../images/color abstract.jpg');
+   background-image: url('../images/colorabstract.jpg');
    text-align: center;
    background-position: bottom;
    background-size: cover;
    color: #fff;
    overflow: hidden;
 }
-/*Font Awesomes*/
+/*Font Awesome Start*/
 
 .fa {
    padding: 20px;
@@ -197,7 +200,8 @@ footer {
 .fa:hover {
    background-color: rgba(169, 169, 169, 0);
 }
-/* animation */
+
+/* Landing Animation Start */
 
 h1 {
    margin: 0;
@@ -307,6 +311,9 @@ h2 span:nth-child(2) {
    opacity: 0;
    animation-delay: 6.5s;
 }
+
+/* Media Queries Start */
+
 @media (min-width: 0px) {
    h1 {
       font-size: 30px;

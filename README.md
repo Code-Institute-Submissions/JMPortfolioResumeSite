@@ -105,10 +105,30 @@ Browser Test | Outcome
  Safari | Passed
 
 
+ On Screen Tests | Outcome
+------------ | -------------
+ Nav Bar | Passed
+ Nav Bar HyperLink Menu | Passed
+ HyperLink to Resume | Passed
+ Landing Page Animation | Passed
+ About Content UX | Passed
+ Skills Content UX | Passed
+ Project Content UX | Passed
+ Project Content Links | Passed
+ Contact Form UX | Passed 
+ Contact Form Button | Passed
+ Footer UX | Passed
+ Footer Links | Passed
+ Responsive Display | Passed
+ Responsive Design | Passed
+
+
 ## Deployment
 
 I decided to commit and push my work to my master branch regularly so when travelling to and from work I could access my site and test features on the most up to date version aswell as share with family and friends for constructive feedback.
 Coming to the end of my project I deployed my website to GitHub Pages using information found here [GitHub](https://pages.github.com/).
+By deploying my site on Github pages it will allow me to continuously update my site/upgrade my site in the background and submit changes by creating releases/creating pulls from gh pages.
+This will allow me to initiate tests on further upgrades/enhancements to my site before deploying to my live version and not disrupt the user experience/inhibit the accessibility for my users. 
 
 
 ## Technologies
@@ -124,7 +144,7 @@ Coming to the end of my project I deployed my website to GitHub Pages using info
 
 ## ViewProject
 
-* The code can be viewed using GitHub pages: https://Murphj99.github.io/milestone-project-1/
+* The code can be viewed using GitHub pages: https://github.com/Murphj99/JMPortfolioResumeSite
 
 
 ## Acknowledgements
