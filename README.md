@@ -127,6 +127,8 @@ Browser Test | Outcome
 
 I decided to commit and push my work to my master branch regularly so when travelling to and from work I could access my site and test features on the most up to date version aswell as share with family and friends for constructive feedback.
 Coming to the end of my project I deployed my website to GitHub Pages using information found here [GitHub](https://pages.github.com/).
+By deploying my site on Github pages it will allow me to continuously update my site/upgrade my site in the background and submit changes by creating releases/creating pulls from gh pages.
+This will allow me to initiate tests on further upgrades/enhancements to my site before deploying to my live version and not disrupt the user experience/inhibit the accessibility for my users. 
 
 
 ## Technologies
