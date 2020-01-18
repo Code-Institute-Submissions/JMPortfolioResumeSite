@@ -105,6 +105,24 @@ Browser Test | Outcome
  Safari | Passed
 
 
+ On Screen Tests | Outcome
+------------ | -------------
+ Nav Bar | Passed
+ Nav Bar HyperLink Menu | Passed
+ HyperLink to Resume | Passed
+ Landing Page Animation | Passed
+ About Content UX | Passed
+ Skills Content UX | Passed
+ Project Content UX | Passed
+ Project Content Links | Passed
+ Contact Form UX | Passed 
+ Contact Form Button | Passed
+ Footer UX | Passed
+ Footer Links | Passed
+ Responsive Display | Passed
+ Responsive Design | Passed
+
+
 ## Deployment
 
 I decided to commit and push my work to my master branch regularly so when travelling to and from work I could access my site and test features on the most up to date version aswell as share with family and friends for constructive feedback.
